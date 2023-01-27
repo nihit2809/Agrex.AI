@@ -6,4 +6,5 @@ Performed data augmentation over those 5 cropped images and then annotated each 
 Used the YOLOv5 model to train on the dataset created after augmentation.
 
 Final Result
-![alt text](http://https://drive.google.com/file/d/1LYPiAFWuY_tyYUuU1VaVuqwl8qevdnFq/view?usp=sharing)
+
+![result](https://user-images.githubusercontent.com/104379823/215133361-5ddaa3c3-4675-4f2c-aba2-dc8a4b020b9b.jpg)
