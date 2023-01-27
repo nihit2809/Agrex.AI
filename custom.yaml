@@ -1,5 +1,0 @@
-train: /content/drive/MyDrive/agrex_dataset/train
-val: /content/drive/MyDrive/agrex_dataset/val
-
-nc: 1
-names: ['Transistor']
